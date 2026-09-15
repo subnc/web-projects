@@ -36,12 +36,6 @@ These projects were created to practice front-end development, JavaScript progra
 - Web APIs
 - Responsive Web Design
 
-## Author
-
-**Subin C**
-
-B.Tech Student
-
 ## Live Projects
 
 All projects are deployed using **GitHub Pages**.
